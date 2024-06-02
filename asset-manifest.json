@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/myland/static/css/main.41bffb68.css",
-    "main.js": "/myland/static/js/main.642150c3.js",
-    "static/js/453.5fedf4be.chunk.js": "/myland/static/js/453.5fedf4be.chunk.js",
+    "main.css": "/myland/static/css/main.2c8952f9.css",
+    "main.js": "/myland/static/js/main.17f673fd.js",
     "static/media/img-hero2.jpg": "/myland/static/media/img-hero2.7a396087717d6aac698a.jpg",
     "static/media/img5.jpg": "/myland/static/media/img5.005ef6648860b053814d.jpg",
     "static/media/img-hero1.jpg": "/myland/static/media/img-hero1.25bc79d8d10f678124f4.jpg",
@@ -28,12 +27,11 @@
     "static/media/team2.jpg": "/myland/static/media/team2.5d54ef0fad5f779cd88b.jpg",
     "static/media/team6.jpg": "/myland/static/media/team6.51e55dc38b7ce790b9b8.jpg",
     "index.html": "/myland/index.html",
-    "main.41bffb68.css.map": "/myland/static/css/main.41bffb68.css.map",
-    "main.642150c3.js.map": "/myland/static/js/main.642150c3.js.map",
-    "453.5fedf4be.chunk.js.map": "/myland/static/js/453.5fedf4be.chunk.js.map"
+    "main.2c8952f9.css.map": "/myland/static/css/main.2c8952f9.css.map",
+    "main.17f673fd.js.map": "/myland/static/js/main.17f673fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.41bffb68.css",
-    "static/js/main.642150c3.js"
+    "static/css/main.2c8952f9.css",
+    "static/js/main.17f673fd.js"
   ]
 }
