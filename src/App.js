@@ -4,6 +4,7 @@ import "./App.css";
 import AppHeader from "./components/header";
 import AppHero from "./components/hero";
 import AppAbout from "./components/about";
+import AppFlipcard from "./components/flipcard";
 import AppServices from "./components/services";
 import AppWorks from "./components/works";
 import AppTeams from "./components/teams";
@@ -22,6 +23,7 @@ function App() {
       <main>
         <AppHero />
         <AppAbout />
+        <AppFlipcard />
         <AppServices />
         <AppWorks />
         <AppTeams />

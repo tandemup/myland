@@ -1,6 +1,6 @@
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
+import Container from "react-bootstrap/Container";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
 
 function AppHeader() {
   return (
@@ -12,6 +12,7 @@ function AppHeader() {
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#about">About</Nav.Link>
+            <Nav.Link href="#flip">Flip</Nav.Link>
             <Nav.Link href="#services">Services</Nav.Link>
             <Nav.Link href="#works">Works</Nav.Link>
             <Nav.Link href="#teams">Teams</Nav.Link>
